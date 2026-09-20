@@ -1,9 +1,9 @@
-# Jetstream2 Intro — standalone Read the Docs project
+# Jetstream2 for Interactive Dashboards — standalone Read the Docs project
 
-A standalone five-minute talk introducing Jetstream2 to interactive-dashboard
-builders (Plotly Dash), prepared for TACCSTER. Each page is one slide with
-suggested speaker notes. No dependency on — or changes to — the main
-training documentation.
+A short standalone guide to Jetstream2 for researchers who build interactive
+dashboards (e.g. with Plotly Dash). Written to be read on its own — no
+presentation framing, no speaker notes. No dependency on, or changes to, the
+main training documentation.
 
 ## Build locally
 
